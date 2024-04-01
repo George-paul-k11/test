@@ -1,0 +1,13 @@
+计算机学院本科编程作业索引
+https://github.com/brupst/awesome-bupt-scs
+https://github.com/fly51fly/Principle-of-Web-Search
+吴恩达深度学习系列课程的笔记
+https://github.com/MsunM-cell/Deep-Learning
+计算机科学与技术专业大三课程相关资料
+https://github.com/MsunM-cell/Third-Year
+2018级的大三上学习资料
+https://github.com/bupt-Jayce-upperclassman/buptsse-2018-study-materials
+计算机科学与技术大三上必修课数据库基本原理
+https://github.com/Septerxy/BUPT_Database
+计算机考研信息汇总
+https://ningzimu.github.io/See_you_in_BUPT/
